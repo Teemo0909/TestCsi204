@@ -1,0 +1,18 @@
+.App-container{
+  justify-items: center;
+  text-align: center;
+}
+
+.main-container{
+  display: flex;
+  gap: 20px;
+}
+
+.DataPage-container,
+.ListExample-container{
+  background-color: aquamarine;
+  width: 20rem;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
